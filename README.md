@@ -12,7 +12,7 @@
     
   ### Методы: визуализация, расчет статистик для проверки гипотез
   
-  ### Стэк: Pythoon( pandas, seaborn, numpy, scipy, transliterate 
+  ### Стэк: Pythoon( pandas, seaborn, numpy, scipy, transliterate )
   
   ### Выводы: 
   
